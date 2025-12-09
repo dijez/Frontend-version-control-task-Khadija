@@ -30,3 +30,6 @@ This repository is for practicing Git and GitHub workflow including branching, c
 - How to revert mistakes using git revert
 - How to rename a branch and fetch updates
 >>>>>>> Stashed changes
+
+## PR screenshort
+![Merged PRs](./screenshots/pr-list.png)
